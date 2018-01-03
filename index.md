@@ -17,7 +17,7 @@ We organized many events :
 Read more about our activites on the [Mozilla Kerala Blog](http://blog.mozillakerala.org).
 If you're looking for post by me, [click here](http://blog.mozillakerala.org/author/shine)
 
-Here are some more projects I've played around with [impress.js](https://github.com/impress/impress.js) built by [*@bartaz*](https://github.com/bartaz) :
+Here are some more projects I've played around with [impress.js](https://github.com/impress/impress.js) built by [**@bartaz**](https://github.com/bartaz) :
 * [Unicorn](https://shinenelson.github.io/unicorn) - Seminar presentation for college
 * [Hacking & Hacker Culture](https://shinenelson.github.io/Hacking-Hacker-Culture) : another presentation for a talk I gave at AngelHack Kochi 2013
 * [FOSS & Mozilla](https://shinenelson.github.io/FOSS-Mozilla) - My story with FOSS & Mozilla
